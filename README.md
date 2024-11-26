@@ -9,6 +9,12 @@ La qualità dell'acqua è una risorsa cruciale per la vita, ma spesso le analisi
 - Prevedere la potabilità dell'acqua con modelli di classificazione binaria.
 - Sfruttare l'analisi dei dati per supportare decisioni informate nella gestione delle risorse idriche.
 
+## Contenuto del Repository
+
+- **`WaterQualityPrediction-Centraco.ipynb`**: Il notebook Jupyter contiene l'intero progetto, inclusi i passi di preprocessing, l'analisi esplorativa dei dati (EDA), la costruzione e la valutazione dei modelli predittivi.
+- **`Presentazione WaterQualityPrediction.pdf`**: File PDF che offre una panoramica completa del progetto, descrivendo i principali risultati e le metodologie utilizzate.
+- **`README.md`**: Documentazione del progetto (questo file).
+
 ## Dataset
 
 Il dataset utilizzato è stato scaricato da [Kaggle](https://www.kaggle.com/), contenente oltre un milione di osservazioni con 24 attributi, tra cui:
